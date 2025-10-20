@@ -1,3 +1,5 @@
 assignments/
 stuff/
 syllabus.pdf
+*.o
+*.out
